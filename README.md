@@ -16,36 +16,34 @@
 .blueviolet{background-color: blueviolet}
 .align=left
 .class="centrar"
+.Centrar{text-align: center;}
 </style>
 <body class="blueviolet" border:solid 1px beer;> 
 	
-<p> <h1 class="blue"  style="color:white" >Cientifica encuentra hongo que degrada plasticos en menos de tres dias</h1> </p>
+<p> <h1 class="blue"  style="color:white" >Cient&iacute;fica encuentra hongo que degrada pl&aacute;sticos en menos de tres d&iacute;as</h1> </p>
 
 
 <div>  
 	<div>
-			<H3><a href="http://www.conacytprensa.mx/index.php/ciencia/mundo-vivo/10421-encuentran-hongo-que-degrada-plasticos-en-menos-de-3-dias">Ver mas
-<img src="https://i0.wp.com/www.galarscience.com.mx/wp-content/uploads/2016/09/hongo.jpg?resize=870%2C490&ssl=1" width=600 height=300 alt="Fusarium culmorum" >  </a></H3>
 		<div>
-		
-	
-
-<th> <body>
-  <p style="color:white";>
-</body>Ixtacuixtla, Tlaxcala. 22 de septiembre de 2016 (Agencia Informativa Conacyt).- Un grupo multidisciplinario de cientificos mexicanos, liderado por la doctora Carmen Sanchez, adscrita al Centro de Investigacion de Ciencias Biologicas de la Universidad Autonoma de Tlaxcala (UAT), encontro un hongo fitopatogeno que tiene la capacidad de degradar un aditivo de los plasticos en tan solo 60 horas. Se trata del hongo Fusarium culmorum, el cual produce unas enzimas llamadas cutinasas, las cuales tienen el poder de degradar plastificantes que son aditivos del policloruro de vinilo (PVC), explico Carmen Sanchez, experta en hongos.
-
-Los plastificantes, tambien conocidos como ftalatos, proporcionan flexibilidad a los plásticos que los contienen. Por ello, se utilizan en muchos productos que se emplean en la vida cotidiana como tubos, cables, revestimientos de suelos y sistemas de techos, entre otros.
-
-En este estudio que lleva por nombre Degradacion de plastificantes empleando hongos filamentosos participan investigadores de la Universidad Autonoma Metropolitana (UAM), unidad Iztapalapa, y la Universidad Popular Autonoma del Estado de Puebla (UPAEP).
-
-Esta investigacion es relevante porque el plastico tarda en degradarse entre 100 y mil anios, dependiendo de su composicion quimica, razon por la cual representa una amenaza para el medio ambiente una vez que se desecha..</th> </p>
-
+			<H3><a href="http://www.conacytprensa.mx/index.php/ciencia/mundo-vivo/10421-encuentran-hongo-que-degrada-plasticos-en-menos-de-3-dias">hongo Fusarium culmorum
+<img src="https://i0.wp.com/www.galarscience.com.mx/wp-content/uploads/2016/09/hongo.jpg?resize=870%2C490&ssl=1" width=600 height=300 alt="Fusarium culmorum" >  </a></H3>
 		</div>
+<th> <body>
+  <p class="centrar" style="color:white";>
+</body>Ixtacuixtla, Tlaxcala. 22 de septiembre de 2016 (Agencia Informativa Conacyt).- Un grupo multidisciplinario de cient&iacute;ficos mexicanos, liderado por la doctora Carmen S&aacute;nchez, adscrita al Centro de Investigaci&oacute;n de Ciencias Biol&oacute;gicas de la Universidad Aut&oacute;noma de Tlaxcala (UAT), encontr&oacute; un hongo fitopat&oacute;geno que tiene la capacidad de degradar un aditivo de los pl&aacute;sticos en tan solo 60 horas. Se trata del hongo Fusarium culmorum, el cual produce unas enzimas llamadas cutinasas, las cuales tienen el poder de degradar plastificantes que son aditivos del policloruro de vinilo (PVC), explic&oacute; Carmen Sanchez, experta en hongos.
+
+Los plastificantes, tambi&eacute;n conocidos como ftalatos, proporcionan flexibilidad a los pl&aacute;sticos que los contienen. Por ello, se utilizan en muchos productos que se emplean en la vida cotidiana como tubos, cables, revestimientos de suelos y sistemas de techos, entre otros.
+
+En este estudio que lleva por nombre Degradaci&oacute;n de plastificantes empleando hongos filamentosos participan investigadores de la Universidad Aut&oacute;noma Metropolitana (UAM), unidad Iztapalapa, y la Universidad Popular Aut&oacute;noma del Estado de Puebla (UPAEP).
+
+Esta investigaci&oacute;n es relevante porque el pl&aacute;stico tarda en degradarse entre 100 y mil a&ntilde;os, dependiendo de su composici&oacute;n qu&iacute;mica, raz&oacute;n por la cual representa una amenaza para el medio ambiente una vez que se desecha...</th> </p>
 
 
+	
+</div>
 
 
-		
 
 
 
@@ -57,7 +55,7 @@ Esta investigacion es relevante porque el plastico tarda en degradarse entre 100
 </body>
 </html>
 
-	</div>
+
 
 
 
@@ -105,7 +103,8 @@ Esta investigacion es relevante porque el plastico tarda en degradarse entre 100
 <html>
 <td> Fuente: </td>
 https://nuevo.jumbo.cl/congelados/helados-y-postres/helados
-</html>
+
 
 
 </div>
+</html>
