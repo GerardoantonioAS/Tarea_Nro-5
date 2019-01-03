@@ -27,8 +27,7 @@
 	<div>
 		<div>
 			<H3><a href="http://www.conacytprensa.mx/index.php/ciencia/mundo-vivo/10421-encuentran-hongo-que-degrada-plasticos-en-menos-de-3-dias">hongo Fusarium culmorum
-<img style="float:right; margin:10px;" src="https://i0.wp.com/www.galarscience.com.mx/wp-content/uploads/2016/09/hongo.jpg?resize=870%2C490&ssl=1" width=300 height=600 alt="Fusarium culmorum" >  </a></H3>
-		</div>
+<img style="float:right; margin:10px;" src="https://i0.wp.com/www.galarscience.com.mx/wp-content/uploads/2016/09/hongo.jpg?resize=870%2C490&ssl=1" width=300 height=600 alt="Fusarium culmorum" >  </a></H3>/>
 <th> <body>
   <p class="centrar" style="color:white";>
 </body>Ixtacuixtla, Tlaxcala. 22 de septiembre de 2016 (Agencia Informativa Conacyt).- Un grupo multidisciplinario de cient&iacute;ficos mexicanos, liderado por la doctora Carmen S&aacute;nchez, adscrita al Centro de Investigaci&oacute;n de Ciencias Biol&oacute;gicas de la Universidad Aut&oacute;noma de Tlaxcala (UAT), encontr&oacute; un hongo fitopat&oacute;geno que tiene la capacidad de degradar un aditivo de los pl&aacute;sticos en tan solo 60 horas. Se trata del hongo Fusarium culmorum, el cual produce unas enzimas llamadas cutinasas, las cuales tienen el poder de degradar plastificantes que son aditivos del policloruro de vinilo (PVC), explic&oacute; Carmen Sanchez, experta en hongos.
