@@ -58,7 +58,7 @@ Esta investigaci&oacute;n es relevante porque el pl&aacute;stico tarda en degrad
 
 
 
-<th>Gelateria Jumbo ofertas</th>
+<th>Gelater&iacute;a Jumbo ofertas</th>
 <table border="3" bgcolor="lightyellow" style="width:40%">
 	<tr>
 		<th>Producto</th>
@@ -83,17 +83,17 @@ Esta investigaci&oacute;n es relevante porque el pl&aacute;stico tarda en degrad
 		<td>Jumbo</td>
 	</tr>
 	<tr>
-		<td>Cheesecake Guallarauco maracuya 1057 g</td>
+		<td>Cheesecake Guallarauco maracuy&aacute; 1057 g</td>
 		<td>$11.699</td>
 		<td>Jumbo</td>
 	</tr>
 	<tr>
-		<td>Helado Jumbo Impo, tiramizu italgelato, 900 ml</td>
+		<td>Helado Jumbo Impo, tiramiz&uacute; italgelato, 900 ml</td>
 		<td>$2.699</td>
 		<td>Jumbo</td>
 	</tr>
 	<tr>
-		<td>Helado Yogen Fruz pinia jengibre 800 cc</td>
+		<td>Helado Yogen Fruz pi&ntilde;ia jengibre 800 cc</td>
 		<td>$5.499</td>
 		<td>Jumbo</td>
 	</tr>
