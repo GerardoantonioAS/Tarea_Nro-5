@@ -27,7 +27,7 @@
 	<div>
 		<div>
 			<H3><a href="http://www.conacytprensa.mx/index.php/ciencia/mundo-vivo/10421-encuentran-hongo-que-degrada-plasticos-en-menos-de-3-dias">hongo Fusarium culmorum
-<img src="https://i0.wp.com/www.galarscience.com.mx/wp-content/uploads/2016/09/hongo.jpg?resize=870%2C490&ssl=1" width=600 height=300 alt="Fusarium culmorum" >  </a></H3>
+<img style="float:right src="https://i0.wp.com/www.galarscience.com.mx/wp-content/uploads/2016/09/hongo.jpg?resize=870%2C490&ssl=1" width=600 height=300 alt="Fusarium culmorum" >  </a></H3>
 		</div>
 <th> <body>
   <p class="centrar" style="color:white";>
@@ -53,7 +53,6 @@ Esta investigaci&oacute;n es relevante porque el pl&aacute;stico tarda en degrad
 </table>
 
 </body>
-</html>
 
 
 
@@ -100,7 +99,7 @@ Esta investigaci&oacute;n es relevante porque el pl&aacute;stico tarda en degrad
 		<td>Jumbo</td>
 	</tr>
 </table>
-<html>
+
 <td> Fuente: </td>
 https://nuevo.jumbo.cl/congelados/helados-y-postres/helados
 
