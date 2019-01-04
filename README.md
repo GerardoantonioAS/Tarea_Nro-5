@@ -27,32 +27,20 @@
 	<div>
 		<div>
 			<H3><a href="http://www.conacytprensa.mx/index.php/ciencia/mundo-vivo/10421-encuentran-hongo-que-degrada-plasticos-en-menos-de-3-dias">hongo Fusarium culmorum
-<img style="float:right; margin:10px;" src="https://i0.wp.com/www.galarscience.com.mx/wp-content/uploads/2016/09/hongo.jpg?resize=870%2C490&ssl=1" width=300 height=600 alt="Fusarium culmorum" >  </a></H3>/>
-<th> <body>
+<img style="float:right; margin:10px;" src="https://i0.wp.com/www.galarscience.com.mx/wp-content/uploads/2016/09/hongo.jpg?resize=870%2C490&ssl=1" width=300 height=300 alt="Fusarium culmorum" >  </a></H3>
+
+</div>
   <p class="centrar" style="color:white";>
+
 </body>Ixtacuixtla, Tlaxcala. 22 de septiembre de 2016 (Agencia Informativa Conacyt).- Un grupo multidisciplinario de cient&iacute;ficos mexicanos, liderado por la doctora Carmen S&aacute;nchez, adscrita al Centro de Investigaci&oacute;n de Ciencias Biol&oacute;gicas de la Universidad Aut&oacute;noma de Tlaxcala (UAT), encontr&oacute; un hongo fitopat&oacute;geno que tiene la capacidad de degradar un aditivo de los pl&aacute;sticos en tan solo 60 horas. Se trata del hongo Fusarium culmorum, el cual produce unas enzimas llamadas cutinasas, las cuales tienen el poder de degradar plastificantes que son aditivos del policloruro de vinilo (PVC), explic&oacute; Carmen Sanchez, experta en hongos.
 
 Los plastificantes, tambi&eacute;n conocidos como ftalatos, proporcionan flexibilidad a los pl&aacute;sticos que los contienen. Por ello, se utilizan en muchos productos que se emplean en la vida cotidiana como tubos, cables, revestimientos de suelos y sistemas de techos, entre otros.
 
 En este estudio que lleva por nombre Degradaci&oacute;n de plastificantes empleando hongos filamentosos participan investigadores de la Universidad Aut&oacute;noma Metropolitana (UAM), unidad Iztapalapa, y la Universidad Popular Aut&oacute;noma del Estado de Puebla (UPAEP).
 
-Esta investigaci&oacute;n es relevante porque el pl&aacute;stico tarda en degradarse entre 100 y mil a&ntilde;os, dependiendo de su composici&oacute;n qu&iacute;mica, raz&oacute;n por la cual representa una amenaza para el medio ambiente una vez que se desecha...</th> </p>
-
-
-	
+Esta investigaci&oacute;n es relevante porque el pl&aacute;stico tarda en degradarse entre 100 y mil a&ntilde;os, dependiendo de su composici&oacute;n qu&iacute;mica, raz&oacute;n por la cual representa una amenaza para el medio ambiente una vez que se desecha...</th>
+ </p>
 </div>
-
-
-
-
-
-
-<tr>
-</tr>
-</table>
-
-</body>
-
 
 
 
@@ -104,4 +92,5 @@ https://nuevo.jumbo.cl/congelados/helados-y-postres/helados
 
 
 </div>
+
 </html>
